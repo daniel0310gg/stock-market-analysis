@@ -1,0 +1,6 @@
+Sector,MonthlyReturn_mean,MonthlyReturn_std,MonthlyReturn_min,MonthlyReturn_max,Volatility_mean,StockCount
+Technology,2.29,9.44,-32.25,35.9,14.83,5
+Financial,2.0,7.83,-16.42,20.25,12.29,3
+Energy,1.68,7.82,-18.67,25.12,11.74,2
+Consumer,1.08,5.16,-16.69,12.71,8.06,2
+Healthcare,0.3,6.84,-26.6,23.65,10.53,3
